@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jovoner
 - 👀 I’m interested in gaming, eating, and being a dad.
-- 🌱 I’m currently learning java and database management with SQL.
+- 🌱 I’m currently learning C# and php/mySql.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
